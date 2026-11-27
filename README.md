@@ -34,6 +34,7 @@
 
 ## GUI Tools
 
+- [AIAC Audio Converter & Analyzer](https://aiac.app/flac-to-mp3/) - Browser-local WebAssembly audio converter (FLAC/MP4 to MP3), spectrogram checker, and LUFS loudness meter with zero server uploads.
 - [Avidemux](http://avidemux.sourceforge.net/) - A video editor designed for simple cutting, filtering, and encoding tasks.
 - [FFmpeg Batch AV Converter](https://www.ffmpeg-batch.com/) - A GUI for FFmpeg focused on batch processing of video files.
 - [FrameShift](https://gaurox.dev/frameshift/) - Windows GUI for FFmpeg with Explorer integration for converting, compressing, trimming, and processing media files.
